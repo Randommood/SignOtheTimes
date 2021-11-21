@@ -1,4 +1,4 @@
-# Sign “O” the Times: Iterative system evolution at hyperscale
+# Sign O' The Times: Iterative system evolution at hyperscale
 
 ## Abstract
 
