@@ -17,13 +17,15 @@ Setting a course of action to meet new growth can be difficult. Architectural ch
 
 ## Thank you!
 
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: John Becker, Peter Teichman, James Turnbull, Simon Wistow, Chris Rivera, Robert Wultsch, Patrick Hamman, Brad Whitaker and Hooman Beheshti.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: John Becker, Peter Teichman, James Turnbull, Simon Wistow, Chris Rivera, Robert Wultsch, Patrick Hamman, Kelly McLaughlin, Brad Whitaker, Marcus Barczak, Ian Fung, and Hooman Beheshti.
 
 ## References
 
 * [Make Boring Plans](https://www.elidedbranches.com/2021/01/make-boring-plans.html)
 * [How we moved our Historical Stats from MySQL to Bigtable with zero downtime](https://www.fastly.com/blog/how-we-moved-our-historical-stats-from-mysql-bigtable-zero-downtime)
 * [How to get started with Fastly real-time logging and Compute@Edge](https://www.fastly.com/blog/how-to-get-started-with-fastly-real-time-logging-and-compute-edge)
+* [Altitude NYC 2018: Leveraging Log Streaming to Build the Best Dashboards, Ever | Eddie Roger, Target](https://vimeo.com/267439418)
+* [Altitude Lon 2018: The burden of a successful feature: Scaling our real time logging platform](https://vimeo.com/273991837)
 * [Sign o’ the Times (Super Deluxe)](https://pitchfork.com/reviews/albums/sign-o-the-times-super-deluxe/)
 * [Sign O' the Times](https://pitchfork.com/reviews/albums/21845-sign-o-the-times/)
 * [Prince Vault](https://www.princevault.com/)
