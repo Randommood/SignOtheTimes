@@ -8,14 +8,16 @@ Setting a course of action to meet new growth can be difficult. Architectural ch
 
 ## Outline
 
-* Intro
-* Context setting
-* You got the look
-* Takeaways
+* “Play In The Sunshine” -  Introduction
+* “It’s Gonna Be A Beautiful Night” - Before we get started
+* “Sign O’ The Times” - On System Architecture
+* “Strange Relationship” - Sustained Growth & Systems
+* “U Got The Look” -  When re-architecture is unavoidable
+* “Forever In My Life” - Reflections & Takeaways
 
 ## Thank you!
 
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: John Becker, Peter Teichman, and Greg Bako.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: John Becker, Peter Teichman, James Turnbull, Simon Wistow, Brad Whitaker, and Greg Bako.
 
 ## References
 
@@ -27,11 +29,6 @@ Thank you to everyonw who helped with feedback, resources, and advice for this t
 * [A Visual Celebration of Prince Through His Album Covers](https://www.format.com/magazine/features/design/prince-dead-celebration-album-covers)
 * [Vogue - Sign o the times](https://www.vogue.com/article/prince-exclusive-sign-o-the-times)
 * [Rolling Stone](https://www.rollingstone.com/music/music-album-reviews/princes-sign-o-the-times-1061880/)
-* []()
-* []()
-* []()
-* []()
-* []()
 
 
 ## Image links
