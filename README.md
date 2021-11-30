@@ -41,12 +41,3 @@ Thank you to everyonw who helped with feedback, resources, and advice for this t
 * https://www.ilikeyouroldstuff.com/sites/g/files/g2000009801/files/prince-sign-o-the-times.jpg
 * https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/dtihf97uelqjrji9lnbd/prince-estate-releases-previously-unheard-track-cosmic-day
 * https://media.npr.org/assets/img/2019/11/25/prince_wide-1d433a282171f14f4fa60a663a379b00cb2b68c6.jpeg
-* https://nypost.com/wp-content/uploads/sites/2/2021/04/prince-3.jpg
-* https://s7d2.scene7.com/is/image/TWCNews/princeresized
-* https://www.biography.com/.image/t_share/MTE5NDg0MDU0NTMzOTMyNTU5/superbowl-xli-prince-raw.jpg
-* https://wdet.org/media/daguerre/2019/12/17/dfe41b9a6fb82d7d0a3e.jpeg
-* https://images.ctfassets.net/u0haasspfa6q/PugKGZgxQEOnImuGy8ZQ5/6b0d5b817ec924a18d676f6246bd6188/prince-dead-57-photography-1
-* https://thevinylfactory.com/wp-content/uploads/2021/04/prince-lost-album-welcome-2-america-vinyl.jpg
-* https://www.hollywoodreporter.com/wp-content/uploads/2016/04/purple_rain_1984_18-h_2016.jpg
-* https://www.nme.com/wp-content/uploads/2020/09/prince-2000x1270-1.jpg
-* https://pyxis.nymag.com/v1/imgs/6a2/2c9/2505dc10b4f5f59f18e893afd3dbd50b4d-31-prince.rsocial.w1200.jpg
